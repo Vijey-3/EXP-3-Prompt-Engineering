@@ -6,6 +6,8 @@ ChatGPT, Claude, Bard, Cohere Command, and Meta
 Experiment:
 Within a specific use case (e.g., summarizing text, answering technical questions), compare the performance, user experience, and response quality of prompting tools across these different AI platforms.
 
+---
+
 ## **Theory**
 
 ### Evolution of Prompting Tools (2024)
@@ -54,6 +56,7 @@ In 2024, the field of prompt engineering matured with AI providers introducing *
 6. **Summarize Findings:**
    Highlight platform strengths and weaknesses.
 
+---
 
 ## Prompt
 1. **Summarization Prompt:**
@@ -72,6 +75,7 @@ In 2024, the field of prompt engineering matured with AI providers introducing *
 5. **Translation Prompt:**
    “Translate this sentence into French: ‘Knowledge is power but wisdom is freedom.’”
 
+---
 
 ## Output
 ### **Scenario A – Summarization**
@@ -136,12 +140,15 @@ Sentence: *“Knowledge is power but wisdom is freedom.”*
 | Cohere Command | Medium   | Concise    | Limited      | Low        | Enterprise-friendly      |
 | Meta AI        | Medium   | Simple     | Minimal      | Low        | Good for open-source use |
 
+---
+
+
 ## Result
 * **ChatGPT**: Best for balanced reasoning, creativity, and user-friendliness.
 * **Claude**: Strongest in depth, structured reasoning, and safety-aligned responses.
 * **Bard**: Useful for real-time knowledge, but sometimes lacks depth.
 * **Cohere**: Enterprise-focused, best for summarization/classification, not for creativity.
 * **Meta AI**: Lightweight, customizable, but outputs are simpler compared to proprietary models.
-
+---
 
 
