@@ -27,6 +27,8 @@ In 2024, the field of prompt engineering matured with AI providers introducing *
 * **Task specialization**: Cohere for structured enterprise tasks, Bard for real-time search integration.
 * **User experience**: Simplicity of use varies across tools.
 
+---
+
 ## Algorithm:
 1. **Select Use Cases (Test Scenarios):**
 
